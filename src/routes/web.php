@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\WalkController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,14 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('walk');
-});
-
-Route::prefix('walk')->controller(WalkController::class)->group(function () {
-    Route::post('/start', 'start')->block();
-    Route::get('/{round}/photo', 'photo')->block();
-    Route::post('/{round}/distance', 'distance')->block();
-    Route::post('/{round}/answer', 'answer')->block();
+    return view('welcome');
 });
 
 Route::get('/dashboard', function () {

@@ -8,5 +8,3 @@
 /src/.env.backup
 /src/.env.production
 .phpunit.result.cache
-/docker/mobile/tls/
-/src/public/walk/mobile-ca.cer
