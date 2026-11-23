@@ -1,0 +1,1 @@
+表紙写真「Shibuya Crossing. Tokyo.」 Bernard Spragg. NZ（Public Domain Mark）。<a href="https://commons.wikimedia.org/wiki/File:Shibuya_Crossing._Tokyo._(43460991501).jpg">写真の出典</a>

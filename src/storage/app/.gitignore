@@ -1,3 +1,5 @@
 *
 !public/
 !.gitignore
+!walk-photos/
+!walk-photos/*.jpg
